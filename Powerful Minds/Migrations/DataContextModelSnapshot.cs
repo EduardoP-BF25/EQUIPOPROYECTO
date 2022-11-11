@@ -19,7 +19,36 @@ namespace WebApi.Migrations
                 .HasAnnotation("ProductVersion", "6.0.1")
                 .HasAnnotation("Relational:MaxIdentifierLength", 64);
 
-            modelBuilder.Entity("WebApi.Models.Author ", b =>
+            modelBuilder.Entity("WebApi.Models.Paciente", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    b.Property<string>("Correo")
+                        .HasColumnType("longtext");
+
+                    b.Property<DateTime?>("CreatedOn")
+                        .HasColumnType("datetime(6)");
+
+                    b.Property<int?>("Edad")
+                        .HasColumnType("int");
+
+                    b.Property<string>("Name")
+                        .HasColumnType("longtext");
+
+                    b.Property<int?>("Tel")
+                        .HasColumnType("int");
+
+                    b.Property<DateTime?>("UpdatedOn")
+                        .HasColumnType("datetime(6)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Paciente");
+                });
+
+            modelBuilder.Entity("WebApi.Models.Psicologo", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -34,48 +63,18 @@ namespace WebApi.Migrations
                     b.Property<string>("Name")
                         .HasColumnType("longtext");
 
-                    b.Property<DateTime?>("UpdatedOn")
-                        .HasColumnType("datetime(6)");
-
-                    b.HasKey("Id");
-
-                    b.ToTable("Author s");
-                });
-
-            modelBuilder.Entity("WebApi.Models.Book", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
+                    b.Property<int?>("Tel")
                         .HasColumnType("int");
-
-                    b.Property<int?>("Author Id")
-                        .HasColumnType("int");
-
-                    b.Property<DateTime?>("CreatedOn")
-                        .HasColumnType("datetime(6)");
-
-                    b.Property<int?>("EditorialId")
-                        .HasColumnType("int");
-
-                    b.Property<string>("Name")
-                        .HasColumnType("longtext");
-
-                    b.Property<DateTime>("ReleaseDate")
-                        .HasColumnType("datetime(6)");
 
                     b.Property<DateTime?>("UpdatedOn")
                         .HasColumnType("datetime(6)");
 
                     b.HasKey("Id");
 
-                    b.HasIndex("Author Id");
-
-                    b.HasIndex("EditorialId");
-
-                    b.ToTable("Books");
+                    b.ToTable("Psicologo");
                 });
 
-            modelBuilder.Entity("WebApi.Models.Editorial", b =>
+            modelBuilder.Entity("WebApi.Models.Test", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -84,27 +83,19 @@ namespace WebApi.Migrations
                     b.Property<DateTime?>("CreatedOn")
                         .HasColumnType("datetime(6)");
 
-                    b.Property<string>("Name")
-                        .HasColumnType("longtext");
-
-                    b.Property<DateTime?>("UpdatedOn")
-                        .HasColumnType("datetime(6)");
-
-                    b.HasKey("Id");
-
-                    b.ToTable("Editorial");
-                });
-
-                 modelBuilder.Entity("WebApi.Models.Psicologo", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
+                    b.Property<int?>("IdPaciente")
                         .HasColumnType("int");
 
-                    b.Property<DateTime?>("CreatedOn")
-                        .HasColumnType("datetime(6)");
-
                     b.Property<string>("Name")
+                        .HasColumnType("longtext");
+
+                    b.Property<string>("Paciente")
+                        .HasColumnType("longtext");
+
+                    b.Property<string>("Preguntas")
+                        .HasColumnType("longtext");
+
+                    b.Property<string>("Respuestas")
                         .HasColumnType("longtext");
 
                     b.Property<DateTime?>("UpdatedOn")
@@ -112,32 +103,7 @@ namespace WebApi.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Editorial");
-                });
-
-            modelBuilder.Entity("WebApi.Models.Book", b =>
-                {
-                    b.HasOne("WebApi.Models.Author ", "Author ")
-                        .WithMany("Books")
-                        .HasForeignKey("Author Id");
-
-                    b.HasOne("WebApi.Models.Editorial", "Editorial")
-                        .WithMany("Books")
-                        .HasForeignKey("EditorialId");
-
-                    b.Navigation("Author ");
-
-                    b.Navigation("Editorial");
-                });
-
-            modelBuilder.Entity("WebApi.Models.Author ", b =>
-                {
-                    b.Navigation("Books");
-                });
-
-            modelBuilder.Entity("WebApi.Models.Editorial", b =>
-                {
-                    b.Navigation("Books");
+                    b.ToTable("Test");
                 });
 #pragma warning restore 612, 618
         }

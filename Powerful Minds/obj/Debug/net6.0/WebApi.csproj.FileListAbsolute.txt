@@ -203,3 +203,44 @@ C:\Users\Arisai Chacon\Documents\Powerful Minds\obj\Debug\net6.0\refint\WebApi.d
 C:\Users\Arisai Chacon\Documents\Powerful Minds\obj\Debug\net6.0\WebApi.pdb
 C:\Users\Arisai Chacon\Documents\Powerful Minds\obj\Debug\net6.0\WebApi.genruntimeconfig.cache
 C:\Users\Arisai Chacon\Documents\Powerful Minds\obj\Debug\net6.0\ref\WebApi.dll
+C:\Users\ASUS\Documents\TSUDSM2022\4CUATRI\Aplicaciones Web Orientada a Servicios\Api\PowerfulMind\EQUIPOPROYECTO\Powerful Minds\obj\Debug\net6.0\WebApi.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\TSUDSM2022\4CUATRI\Aplicaciones Web Orientada a Servicios\Api\PowerfulMind\EQUIPOPROYECTO\Powerful Minds\obj\Debug\net6.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Documents\TSUDSM2022\4CUATRI\Aplicaciones Web Orientada a Servicios\Api\PowerfulMind\EQUIPOPROYECTO\Powerful Minds\obj\Debug\net6.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\TSUDSM2022\4CUATRI\Aplicaciones Web Orientada a Servicios\Api\PowerfulMind\EQUIPOPROYECTO\Powerful Minds\obj\Debug\net6.0\WebApi.AssemblyInfo.cs
+C:\Users\ASUS\Documents\TSUDSM2022\4CUATRI\Aplicaciones Web Orientada a Servicios\Api\PowerfulMind\EQUIPOPROYECTO\Powerful Minds\obj\Debug\net6.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\TSUDSM2022\4CUATRI\Aplicaciones Web Orientada a Servicios\Api\PowerfulMind\EQUIPOPROYECTO\Powerful Minds\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ASUS\Documents\TSUDSM2022\4CUATRI\Aplicaciones Web Orientada a Servicios\Api\PowerfulMind\EQUIPOPROYECTO\Powerful Minds\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\Documents\TSUDSM2022\4CUATRI\Aplicaciones Web Orientada a Servicios\Api\PowerfulMind\EQUIPOPROYECTO\Powerful Minds\obj\Debug\net6.0\WebApi.dll
+C:\Users\ASUS\Documents\TSUDSM2022\4CUATRI\Aplicaciones Web Orientada a Servicios\Api\PowerfulMind\EQUIPOPROYECTO\Powerful Minds\obj\Debug\net6.0\refint\WebApi.dll
+C:\Users\ASUS\Documents\TSUDSM2022\4CUATRI\Aplicaciones Web Orientada a Servicios\Api\PowerfulMind\EQUIPOPROYECTO\Powerful Minds\obj\Debug\net6.0\WebApi.pdb
+C:\Users\ASUS\Documents\TSUDSM2022\4CUATRI\Aplicaciones Web Orientada a Servicios\Api\PowerfulMind\EQUIPOPROYECTO\Powerful Minds\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ASUS\Documents\TSUDSM2022\4CUATRI\Aplicaciones Web Orientada a Servicios\Api\PowerfulMind\EQUIPOPROYECTO\Powerful Minds\bin\Debug\net6.0\appsettings.json
+C:\Users\ASUS\Documents\TSUDSM2022\4CUATRI\Aplicaciones Web Orientada a Servicios\Api\PowerfulMind\EQUIPOPROYECTO\Powerful Minds\bin\Debug\net6.0\WebApi.exe
+C:\Users\ASUS\Documents\TSUDSM2022\4CUATRI\Aplicaciones Web Orientada a Servicios\Api\PowerfulMind\EQUIPOPROYECTO\Powerful Minds\bin\Debug\net6.0\WebApi.deps.json
+C:\Users\ASUS\Documents\TSUDSM2022\4CUATRI\Aplicaciones Web Orientada a Servicios\Api\PowerfulMind\EQUIPOPROYECTO\Powerful Minds\bin\Debug\net6.0\WebApi.runtimeconfig.json
+C:\Users\ASUS\Documents\TSUDSM2022\4CUATRI\Aplicaciones Web Orientada a Servicios\Api\PowerfulMind\EQUIPOPROYECTO\Powerful Minds\bin\Debug\net6.0\WebApi.dll
+C:\Users\ASUS\Documents\TSUDSM2022\4CUATRI\Aplicaciones Web Orientada a Servicios\Api\PowerfulMind\EQUIPOPROYECTO\Powerful Minds\bin\Debug\net6.0\WebApi.pdb
+C:\Users\ASUS\Documents\TSUDSM2022\4CUATRI\Aplicaciones Web Orientada a Servicios\Api\PowerfulMind\EQUIPOPROYECTO\Powerful Minds\bin\Debug\net6.0\Castle.Core.dll
+C:\Users\ASUS\Documents\TSUDSM2022\4CUATRI\Aplicaciones Web Orientada a Servicios\Api\PowerfulMind\EQUIPOPROYECTO\Powerful Minds\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ASUS\Documents\TSUDSM2022\4CUATRI\Aplicaciones Web Orientada a Servicios\Api\PowerfulMind\EQUIPOPROYECTO\Powerful Minds\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\ASUS\Documents\TSUDSM2022\4CUATRI\Aplicaciones Web Orientada a Servicios\Api\PowerfulMind\EQUIPOPROYECTO\Powerful Minds\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\ASUS\Documents\TSUDSM2022\4CUATRI\Aplicaciones Web Orientada a Servicios\Api\PowerfulMind\EQUIPOPROYECTO\Powerful Minds\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ASUS\Documents\TSUDSM2022\4CUATRI\Aplicaciones Web Orientada a Servicios\Api\PowerfulMind\EQUIPOPROYECTO\Powerful Minds\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ASUS\Documents\TSUDSM2022\4CUATRI\Aplicaciones Web Orientada a Servicios\Api\PowerfulMind\EQUIPOPROYECTO\Powerful Minds\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ASUS\Documents\TSUDSM2022\4CUATRI\Aplicaciones Web Orientada a Servicios\Api\PowerfulMind\EQUIPOPROYECTO\Powerful Minds\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\ASUS\Documents\TSUDSM2022\4CUATRI\Aplicaciones Web Orientada a Servicios\Api\PowerfulMind\EQUIPOPROYECTO\Powerful Minds\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\ASUS\Documents\TSUDSM2022\4CUATRI\Aplicaciones Web Orientada a Servicios\Api\PowerfulMind\EQUIPOPROYECTO\Powerful Minds\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ASUS\Documents\TSUDSM2022\4CUATRI\Aplicaciones Web Orientada a Servicios\Api\PowerfulMind\EQUIPOPROYECTO\Powerful Minds\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ASUS\Documents\TSUDSM2022\4CUATRI\Aplicaciones Web Orientada a Servicios\Api\PowerfulMind\EQUIPOPROYECTO\Powerful Minds\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\ASUS\Documents\TSUDSM2022\4CUATRI\Aplicaciones Web Orientada a Servicios\Api\PowerfulMind\EQUIPOPROYECTO\Powerful Minds\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ASUS\Documents\TSUDSM2022\4CUATRI\Aplicaciones Web Orientada a Servicios\Api\PowerfulMind\EQUIPOPROYECTO\Powerful Minds\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\ASUS\Documents\TSUDSM2022\4CUATRI\Aplicaciones Web Orientada a Servicios\Api\PowerfulMind\EQUIPOPROYECTO\Powerful Minds\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\ASUS\Documents\TSUDSM2022\4CUATRI\Aplicaciones Web Orientada a Servicios\Api\PowerfulMind\EQUIPOPROYECTO\Powerful Minds\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ASUS\Documents\TSUDSM2022\4CUATRI\Aplicaciones Web Orientada a Servicios\Api\PowerfulMind\EQUIPOPROYECTO\Powerful Minds\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ASUS\Documents\TSUDSM2022\4CUATRI\Aplicaciones Web Orientada a Servicios\Api\PowerfulMind\EQUIPOPROYECTO\Powerful Minds\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ASUS\Documents\TSUDSM2022\4CUATRI\Aplicaciones Web Orientada a Servicios\Api\PowerfulMind\EQUIPOPROYECTO\Powerful Minds\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ASUS\Documents\TSUDSM2022\4CUATRI\Aplicaciones Web Orientada a Servicios\Api\PowerfulMind\EQUIPOPROYECTO\Powerful Minds\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ASUS\Documents\TSUDSM2022\4CUATRI\Aplicaciones Web Orientada a Servicios\Api\PowerfulMind\EQUIPOPROYECTO\Powerful Minds\obj\Debug\net6.0\scopedcss\bundle\WebApi.styles.css
+C:\Users\ASUS\Documents\TSUDSM2022\4CUATRI\Aplicaciones Web Orientada a Servicios\Api\PowerfulMind\EQUIPOPROYECTO\Powerful Minds\obj\Debug\net6.0\WebApi.csproj.CopyComplete
+C:\Users\ASUS\Documents\TSUDSM2022\4CUATRI\Aplicaciones Web Orientada a Servicios\Api\PowerfulMind\EQUIPOPROYECTO\Powerful Minds\obj\Debug\net6.0\WebApi.genruntimeconfig.cache
+C:\Users\ASUS\Documents\TSUDSM2022\4CUATRI\Aplicaciones Web Orientada a Servicios\Api\PowerfulMind\EQUIPOPROYECTO\Powerful Minds\obj\Debug\net6.0\ref\WebApi.dll

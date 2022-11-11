@@ -4,8 +4,6 @@ namespace WebApi.Models;
 
 public class Test: Model
 {
-    public int? Id {get; set;}
-
     public string? Name {get; set; }
 
     public string? Preguntas {get; set;}
